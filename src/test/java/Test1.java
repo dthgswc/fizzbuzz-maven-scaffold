@@ -13,5 +13,6 @@ public class Test1 {
 		chN(15, "fizzbuzz");
 		chN(5, "buzz");
 		chN(3, "fizz");
+		chN(1, "1");
 	}
 }
