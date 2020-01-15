@@ -7,6 +7,7 @@ public class Test1 {
 	public void chN(int i, String s) {
 		Assert.assertThat(new GamN(i).toString(), is(s));
 	}
+
 	@Test
 	public void ch() {
 		chN(15, "fizzbuzz");
