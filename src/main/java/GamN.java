@@ -6,6 +6,7 @@ public class GamN {
 		this.rawN = i;
 	}
 
+	
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
